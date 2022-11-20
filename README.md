@@ -1,5 +1,5 @@
 - 👋 Hi, I’m '民笙'
-- 👀 I’m interested in games
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on face-recognition
 - 📫 You can reach me by e-mail :2310538789@qq.com
